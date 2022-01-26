@@ -7,4 +7,6 @@
     <string name="no_data_to_show">No Data To Show</string>
     <string name="total">Total</string>
     <string name="g_m">G.M</string>
+    <string name="finish">Finish</string>
+    <string name="wait">Wait</string>
 </resources>
